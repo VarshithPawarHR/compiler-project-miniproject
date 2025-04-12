@@ -1,0 +1,7 @@
+Summary of Analysis:
+------------------------------------------------------------
+Category               Count        Elements
+------------------------------------------------------------
+Keyword                17           if	begin	end	printf	main	int
+Punctuation            20           ;	)	(	,
+Identifier             15           n1	expr	n3	n2	relop
