@@ -14,9 +14,9 @@ IDENTIFIER           n3                   Identifier
 PUNCTUATION          ;                    Punctuation         
 KEYWORD              if                   Keyword             
 PUNCTUATION          (                    Punctuation         
-IDENTIFIER           expr                 Identifier          
-IDENTIFIER           relop                Identifier          
-IDENTIFIER           expr                 Identifier          
+EXPR                 expr                 Expression          
+RELOP                relop                Relational Operator 
+EXPR                 expr                 Expression          
 PUNCTUATION          )                    Punctuation         
 KEYWORD              begin                Keyword             
 KEYWORD              printf               Keyword             
@@ -27,9 +27,9 @@ PUNCTUATION          ;                    Punctuation
 KEYWORD              end                  Keyword             
 KEYWORD              if                   Keyword             
 PUNCTUATION          (                    Punctuation         
-IDENTIFIER           expr                 Identifier          
-IDENTIFIER           relop                Identifier          
-IDENTIFIER           expr                 Identifier          
+EXPR                 expr                 Expression          
+RELOP                relop                Relational Operator 
+EXPR                 expr                 Expression          
 PUNCTUATION          )                    Punctuation         
 KEYWORD              begin                Keyword             
 KEYWORD              printf               Keyword             
@@ -40,9 +40,9 @@ PUNCTUATION          ;                    Punctuation
 KEYWORD              end                  Keyword             
 KEYWORD              if                   Keyword             
 PUNCTUATION          (                    Punctuation         
-IDENTIFIER           expr                 Identifier          
-IDENTIFIER           relop                Identifier          
-IDENTIFIER           expr                 Identifier          
+EXPR                 expr                 Expression          
+RELOP                relop                Relational Operator 
+EXPR                 expr                 Expression          
 PUNCTUATION          )                    Punctuation         
 KEYWORD              begin                Keyword             
 KEYWORD              printf               Keyword             

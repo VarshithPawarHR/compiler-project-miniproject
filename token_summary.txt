@@ -2,6 +2,8 @@ Summary of Analysis:
 ------------------------------------------------------------
 Category               Count        Elements
 ------------------------------------------------------------
-Keyword                17           if	begin	end	printf	main	int
-Punctuation            20           ;	)	(	,
-Identifier             15           n1	expr	n3	n2	relop
+Keyword                17           printf	main	begin	end	if	int
+Punctuation            20           )	;	,	(
+Identifier             6            n1	n3	n2
+Expr                   6            expr
+Relop                  3            relop
